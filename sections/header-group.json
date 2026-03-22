@@ -15,7 +15,7 @@
       "type": "announcement-bar",
       "settings": {
         "text": "Coming soon!",
-        "link": "",
+        "link": "https://github.com/fjuniorr/shopify-skeleton-theme",
         "background_color": "#333333",
         "text_color": "#ffffff"
       }
